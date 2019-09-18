@@ -1,0 +1,1 @@
+import{r as o,h as e}from"./p-5471ff08.js";const n=class{constructor(e){o(this,e)}valueChangeHandler(o){console.log(o.detail)}render(){return[e("ion-header",null,e("ion-toolbar",{color:"primary"},e("ion-title",null,"Home"))),e("ion-content",{class:"ion-padding"},e("normal-suggest",{value:this.value}))]}static get style(){return""}};export{n as app_home};
